@@ -2,6 +2,9 @@ Sure, I'll help you create a simple README file for uploading to GitHub. Based o
 
 ---
 
+![image](https://github.com/Roshanshan/WearAnything_ComfyUI/assets/41194346/b77f10a5-fbe9-410a-bd98-5d27367e543c)
+
+
 # My Project
 
 This project involves using a visual programming interface for image generation, potentially involving IPAdapters and CLIP text encoding.
