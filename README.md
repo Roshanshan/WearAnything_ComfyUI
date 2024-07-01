@@ -67,11 +67,3 @@ Loads the pre-trained model checkpoint.
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request for any changes.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-
-Feel free to modify the sections and content as per the specifics of your project. Once you have customized it, you can save it as `README.md` and upload it to your GitHub repository. If you need any more details or modifications, let me know!
