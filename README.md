@@ -50,19 +50,6 @@ Decodes the latent space output to an image.
 ### Load Checkpoint
 Loads the pre-trained model checkpoint.
 
-## Usage
-
-1. **Clone the Repository**:
-   ```sh
-   git clone https://github.com/yourusername/your-repo.git
-   cd your-repo
-   ```
-
-2. **Set Up Environment**:
-   Follow the instructions to set up your environment.
-
-3. **Run the Program**:
-   Follow the instructions to run the program using the provided interface.
 
 ## Contributing
 
